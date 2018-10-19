@@ -1,0 +1,45 @@
+\babel@toc {english}{}
+\contentsline {chapter}{List of Figures}{viii}{section*.2}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Polymer}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Polymerization}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Poly(Ethylene Oxide)}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Importance of $N$}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Polymer crystallization}{5}{section.1.5}
+\contentsline {chapter}{\numberline {2}Evaporative purification}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Vapor pressure of PEO oligomers}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Evaporation technique and results}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}Results from mass spectroscopy}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}MALDI-TOF spectra and analysis}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Evolution of $N$ during evaporation process}{14}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Chain conformation analysis}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}Polymer crystallization}{16}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Polymer crystal models and theories}{16}{subsection.3.1.1}
+\contentsline {subsubsection}{Fringed micelle model}{17}{section*.13}
+\contentsline {subsubsection}{Folded chain model}{18}{section*.15}
+\contentsline {subsection}{\numberline {3.1.2}Thermodynamics of polymer crystallization}{20}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}PEO crystallization}{23}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Crystal structure}{23}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Melting points of PEO oligomers}{25}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Basics of differential scanning calorimetry}{27}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Phase transitions in polymers}{27}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Working mechanism of differential scannign calorimetry}{29}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Results from differential scanning calorimetry}{31}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Melting temperature}{31}{subsection.3.4.1}
+\contentsline {subsubsection}{Chain-folding analysis based on $T_{m}$}{32}{section*.24}
+\contentsline {subsubsection}{Tuning chain-folding mode}{37}{section*.29}
+\contentsline {subsubsection}{Comparison between purified fractions and neat sample}{39}{section*.32}
+\contentsline {subsubsection}{End-group effects}{40}{section*.34}
+\contentsline {subsection}{\numberline {3.4.2}Degree of crystallinity}{42}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}Crystal growth review and measurements}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Crystallization with spherulites}{45}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Nucleation}{47}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Crystal growth}{52}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Review of PEO oligomers crystal growth rate}{56}{section.4.2}
+\contentsline {section}{\numberline {4.3}Optical microscopy experiments}{58}{section.4.3}
+\contentsline {section}{\numberline {4.4}Crystal growth rate of purified products}{60}{section.4.4}
+\contentsline {chapter}{\numberline {5}Conclusion \& discussion}{63}{chapter.5}
+\contentsline {section}{\numberline {5.1}Evaporative purification of PEO}{63}{section.5.1}
+\contentsline {section}{\numberline {5.2}Chain conformation}{64}{section.5.2}
+\contentsline {section}{\numberline {5.3}Crystal growth}{64}{section.5.3}
+\contentsline {chapter}{\textbf {References}}{66}{section*.48}

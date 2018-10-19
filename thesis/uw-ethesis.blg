@@ -1,0 +1,90 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: uw-ethesis.aux
+The style file: unsrt.bst
+Database file #1: introduction.bib
+Database file #2: evaporation.bib
+Database file #3: analysis.bib
+Repeated entry---line 338 of file analysis.bib
+ : @incollection{Buckley1975
+ :                          ,
+I'm skipping whatever remains of this entry
+Database file #4: growth.bib
+Repeated entry---line 32 of file growth.bib
+ : @article{High
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 211 of file growth.bib
+ : @book{Strobl2007
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 227 of file growth.bib
+ : @article{Kovacs1975
+ :                    ,
+I'm skipping whatever remains of this entry
+Database file #5: conclusion.bib
+Repeated entry---line 6 of file conclusion.bib
+ : @article{Zhu2017a
+ :                  ,
+I'm skipping whatever remains of this entry
+Warning--empty publisher in Carraher2003a
+Warning--empty publisher in Buckley1975
+Warning--empty journal in Chai2016
+Warning--empty institution in Organ1996
+Warning--empty publisher in Strobl2007
+Warning--empty journal in High
+Warning--empty year in High
+Warning--empty publisher in Hu2013
+Warning--can't use both volume and number fields in Zhang2016
+Warning--empty publisher in Zhang2016
+Warning--empty journal in KojiYamada2003
+Warning--empty publisher in InternationalOrganizationforStandardization2013
+Warning--empty journal in Okerberg2007
+Warning--empty journal in Herzberger2015
+Warning--empty journal in Rottele2003
+Warning--empty institution in FickZiirich1995
+Warning--empty journal in HaoOuyang2004
+Warning--empty institution in Lauritzen
+Warning--empty institution in Hoffman
+You've used 83 entries,
+            1791 wiz_defined-function locations,
+            1015 strings with 17774 characters,
+and the built_in function-call counts, 18569 in all, are:
+= -- 1671
+> -- 787
+< -- 8
++ -- 300
+- -- 217
+* -- 1390
+:= -- 2955
+add.period$ -- 251
+call.type$ -- 83
+change.case$ -- 74
+chr.to.int$ -- 0
+cite$ -- 102
+duplicate$ -- 789
+empty$ -- 1823
+format.name$ -- 217
+if$ -- 4031
+int.to.chr$ -- 0
+int.to.str$ -- 83
+missing$ -- 93
+newline$ -- 417
+num.names$ -- 83
+pop$ -- 234
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 293
+stack$ -- 0
+substring$ -- 1369
+swap$ -- 113
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 19
+while$ -- 192
+width$ -- 85
+write$ -- 881
+(There were 5 error messages)
