@@ -5,22 +5,22 @@ The style file: unsrt.bst
 Database file #1: introduction.bib
 Database file #2: evaporation.bib
 Database file #3: analysis.bib
-Repeated entry---line 338 of file analysis.bib
+Repeated entry---line 611 of file analysis.bib
  : @incollection{Buckley1975
  :                          ,
 I'm skipping whatever remains of this entry
 Database file #4: growth.bib
-Repeated entry---line 32 of file growth.bib
+Repeated entry---line 109 of file growth.bib
  : @article{High
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 211 of file growth.bib
- : @book{Strobl2007
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 227 of file growth.bib
+Repeated entry---line 197 of file growth.bib
  : @article{Kovacs1975
  :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 280 of file growth.bib
+ : @book{Strobl2007
+ :                 ,
 I'm skipping whatever remains of this entry
 Database file #5: conclusion.bib
 Repeated entry---line 6 of file conclusion.bib
@@ -46,45 +46,45 @@ Warning--empty institution in FickZiirich1995
 Warning--empty journal in HaoOuyang2004
 Warning--empty institution in Lauritzen
 Warning--empty institution in Hoffman
-You've used 83 entries,
+You've used 87 entries,
             1791 wiz_defined-function locations,
-            1015 strings with 17774 characters,
-and the built_in function-call counts, 18569 in all, are:
-= -- 1671
-> -- 787
+            1038 strings with 18245 characters,
+and the built_in function-call counts, 19515 in all, are:
+= -- 1764
+> -- 811
 < -- 8
-+ -- 300
-- -- 217
-* -- 1390
-:= -- 2955
-add.period$ -- 251
-call.type$ -- 83
-change.case$ -- 74
++ -- 310
+- -- 223
+* -- 1472
+:= -- 3099
+add.period$ -- 263
+call.type$ -- 87
+change.case$ -- 78
 chr.to.int$ -- 0
-cite$ -- 102
-duplicate$ -- 789
-empty$ -- 1823
-format.name$ -- 217
-if$ -- 4031
+cite$ -- 106
+duplicate$ -- 825
+empty$ -- 1922
+format.name$ -- 223
+if$ -- 4235
 int.to.chr$ -- 0
-int.to.str$ -- 83
-missing$ -- 93
-newline$ -- 417
-num.names$ -- 83
-pop$ -- 234
+int.to.str$ -- 87
+missing$ -- 97
+newline$ -- 437
+num.names$ -- 87
+pop$ -- 238
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 293
+skip$ -- 307
 stack$ -- 0
-substring$ -- 1369
-swap$ -- 113
+substring$ -- 1474
+swap$ -- 117
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 19
-while$ -- 192
-width$ -- 85
-write$ -- 881
+while$ -- 203
+width$ -- 89
+write$ -- 925
 (There were 5 error messages)

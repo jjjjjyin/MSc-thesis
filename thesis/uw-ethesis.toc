@@ -1,5 +1,5 @@
 \babel@toc {english}{}
-\contentsline {chapter}{List of Figures}{viii}{section*.2}
+\contentsline {chapter}{List of Figures}{vii}{section*.2}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Polymer}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Polymerization}{2}{section.1.2}
@@ -19,27 +19,29 @@
 \contentsline {subsubsection}{Folded chain model}{18}{section*.15}
 \contentsline {subsection}{\numberline {3.1.2}Thermodynamics of polymer crystallization}{20}{subsection.3.1.2}
 \contentsline {section}{\numberline {3.2}PEO crystallization}{23}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Crystal structure}{23}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}Crystal structure}{24}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Melting points of PEO oligomers}{25}{subsection.3.2.2}
 \contentsline {section}{\numberline {3.3}Basics of differential scanning calorimetry}{27}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Phase transitions in polymers}{27}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Working mechanism of differential scannign calorimetry}{29}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}Working mechanism of differential scanning calorimetry}{29}{subsection.3.3.2}
 \contentsline {section}{\numberline {3.4}Results from differential scanning calorimetry}{31}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Melting temperature}{31}{subsection.3.4.1}
-\contentsline {subsubsection}{Chain-folding analysis based on $T_{m}$}{32}{section*.24}
-\contentsline {subsubsection}{Tuning chain-folding mode}{37}{section*.29}
-\contentsline {subsubsection}{Comparison between purified fractions and neat sample}{39}{section*.32}
-\contentsline {subsubsection}{End-group effects}{40}{section*.34}
-\contentsline {subsection}{\numberline {3.4.2}Degree of crystallinity}{42}{subsection.3.4.2}
-\contentsline {chapter}{\numberline {4}Crystal growth review and measurements}{45}{chapter.4}
-\contentsline {section}{\numberline {4.1}Crystallization with spherulites}{45}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Nucleation}{47}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Crystal growth}{52}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Review of PEO oligomers crystal growth rate}{56}{section.4.2}
-\contentsline {section}{\numberline {4.3}Optical microscopy experiments}{58}{section.4.3}
-\contentsline {section}{\numberline {4.4}Crystal growth rate of purified products}{60}{section.4.4}
-\contentsline {chapter}{\numberline {5}Conclusion \& discussion}{63}{chapter.5}
-\contentsline {section}{\numberline {5.1}Evaporative purification of PEO}{63}{section.5.1}
-\contentsline {section}{\numberline {5.2}Chain conformation}{64}{section.5.2}
-\contentsline {section}{\numberline {5.3}Crystal growth}{64}{section.5.3}
-\contentsline {chapter}{\textbf {References}}{66}{section*.48}
+\contentsline {subsubsection}{Chain-folding analysis based on $T_{m}$}{32}{section*.25}
+\contentsline {subsubsection}{Comparison to N-alkanes}{36}{section*.29}
+\contentsline {subsubsection}{Fractionation of chains during crystallization}{38}{section*.30}
+\contentsline {subsubsection}{Tuning chain-folding mode}{38}{section*.32}
+\contentsline {subsubsection}{Comparison between purified fractions and neat sample}{40}{section*.35}
+\contentsline {subsubsection}{End-group effects}{41}{section*.37}
+\contentsline {subsection}{\numberline {3.4.2}Degree of crystallinity}{43}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}Crystal growth review and measurements}{46}{chapter.4}
+\contentsline {section}{\numberline {4.1}Crystallization with spherulites}{46}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Nucleation}{48}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Crystal growth}{53}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Review of PEO oligomers crystal growth rate}{57}{section.4.2}
+\contentsline {section}{\numberline {4.3}Optical microscopy experiments}{59}{section.4.3}
+\contentsline {section}{\numberline {4.4}Crystal growth rate of purified products}{61}{section.4.4}
+\contentsline {chapter}{\numberline {5}Conclusion \& discussion}{64}{chapter.5}
+\contentsline {section}{\numberline {5.1}Evaporative purification of PEO}{64}{section.5.1}
+\contentsline {section}{\numberline {5.2}Chain conformation}{65}{section.5.2}
+\contentsline {section}{\numberline {5.3}Crystal growth}{65}{section.5.3}
+\contentsline {chapter}{\textbf {References}}{67}{section*.51}

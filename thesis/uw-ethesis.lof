@@ -13,30 +13,31 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Fringed micelle model of polymer crystal structure.}}{18}{figure.caption.14}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Adjacent re-entry model of polymer crystals.}}{19}{figure.caption.16}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Random re-entry model of polymer crystals.}}{20}{figure.caption.17}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces 7/2 helix structure (a) and its radial projection (b).}}{24}{figure.caption.18}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Melting points vs degree of polymerization for monodisperse (black dots) and polydisperse (empty boxes) PEO oligomer samples.}}{26}{figure.caption.19}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Temperature of specific volume of a polymer under melting or crystallization transition, where $T$ is the temperature and $V$ is the specific volume.\relax }}{28}{figure.caption.20}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Temperature of specific volume of a polymer under glass transition, where $T$ is the temperature and $V$ is the specific volume.\relax }}{29}{figure.caption.21}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces A typical DSC curve for a polymer sample.}}{31}{figure.caption.22}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Melting temperature of purified fractions.\relax }}{32}{figure.caption.23}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces $T_{m1}$ data fitting to Gibbs Thomson equation.\relax }}{34}{figure.caption.25}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces $T_{m1}$ and $T_{m2}$ data fitting to Gibbs Thomson equation.\relax }}{35}{figure.caption.26}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Gibbs Thomson relation fitting with potential range bars on $T_{m}$ data points.\relax }}{36}{figure.caption.27}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Part of DSC curve (melting) from regular run on $\bar {N} = 11$.\relax }}{37}{figure.caption.28}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Thermal treatment on some of the products.\relax }}{38}{figure.caption.30}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces DSC measurements on purified fraction with $N = 12.3$ before and after thermal treatment.\relax }}{39}{figure.caption.31}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces DSC curves of the neat sample (red) and some of the purified fractions (blue).\relax }}{40}{figure.caption.33}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Degree of crystallinity of purified products.\relax }}{43}{figure.caption.36}
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Comparison of degree of crystallinity measured in different studies}}{44}{figure.caption.37}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Schematic drawing of a polymer crystal lamella.\relax }}{22}{figure.caption.18}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 7/2 helix structure (a) and its radial projection (b).}}{24}{figure.caption.19}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Melting points vs degree of polymerization for monodisperse (black dots) and polydisperse (empty boxes) PEO oligomer samples.}}{26}{figure.caption.20}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Temperature of specific volume of a polymer under melting or crystallization transition, where $T$ is the temperature and $V$ is the specific volume.\relax }}{28}{figure.caption.21}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Temperature of specific volume of a polymer under glass transition, where $T$ is the temperature and $V$ is the specific volume.\relax }}{29}{figure.caption.22}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces A typical DSC curve for a polymer sample.}}{31}{figure.caption.23}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Melting temperature of purified fractions.\relax }}{32}{figure.caption.24}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces $T_{m1}$ data fitting to Gibbs Thomson equation.\relax }}{34}{figure.caption.26}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces $T_{m1}$ and $T_{m2}$ data fitting to Gibbs Thomson equation.\relax }}{35}{figure.caption.27}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Gibbs Thomson relation fitting with potential range bars on $T_{m}$ data points.\relax }}{36}{figure.caption.28}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Part of DSC curve (melting) from regular run on $\bar {N} = 11$.\relax }}{38}{figure.caption.31}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Thermal treatment on products with a lower $T_{m}$ present.\relax }}{39}{figure.caption.33}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces DSC measurements on purified fraction with $N = 12.3$ before and after thermal treatment.\relax }}{40}{figure.caption.34}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces DSC curves of the neat sample (red) and some of the purified fractions (blue).\relax }}{41}{figure.caption.36}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Degree of crystallinity of purified products.\relax }}{44}{figure.caption.39}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Comparison of degree of crystallinity measured in different studies}}{45}{figure.caption.40}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces A polymer spherulite with folded-chain lamellae.}}{46}{figure.caption.38}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Optical microscope image (with crossed polarizers on) of fraction with $\bar {N} = 12.4$ at 260.65 K.\relax }}{47}{figure.caption.39}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Total free energy of an embryo $\Delta G$ vs embryo radius $r$, where $r^{*}$ and $\Delta G^{*}$ are the critical radius and the critical free energy, respectively.\relax }}{49}{figure.caption.40}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Volume-normalized time constant, $\tau V$, as a function of temperature.}}{51}{figure.caption.41}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Polymer crystal growth in three regimes in LH theory.}}{54}{figure.caption.42}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Temperature dependence of the radial growth rate $u$ of spherulites of iPS, nylon and TMPS.}}{56}{figure.caption.43}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces PEO crystals growth rate with respect to temperature and molecular weight.}}{57}{figure.caption.44}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Four sequential images of fraction with $\bar {N} = 12.4$ at 260.65 K, under optical microscope with crossed polarizers on.\relax }}{59}{figure.caption.45}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Crystal size as a function of crystallization time, of fraction with $\bar {N} = 12.4$ at 260.65 K.\relax }}{60}{figure.caption.46}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Crystal growth rate vs crystallization temperature, with four fractions having different chain lengths. Vertical bars are the melting temperatures of the fractions.\relax }}{61}{figure.caption.47}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A polymer spherulite with folded-chain lamellae.}}{47}{figure.caption.41}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Optical microscope image (with crossed polarizers on) of fraction with $\bar {N} = 12.4$ at 260.65 K.\relax }}{48}{figure.caption.42}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Total free energy of an embryo $\Delta G$ vs embryo radius $r$, where $r^{*}$ and $\Delta G^{*}$ are the critical radius and the critical free energy, respectively.\relax }}{50}{figure.caption.43}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Volume-normalized time constant, $\tau V$, as a function of temperature.}}{52}{figure.caption.44}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Polymer crystal growth in three regimes in LH theory.}}{55}{figure.caption.45}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Temperature dependence of the radial growth rate $u$ of spherulites of iPS, nylon and TMPS.}}{57}{figure.caption.46}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces PEO crystals growth rate with respect to temperature and molecular weight.}}{58}{figure.caption.47}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Four sequential images of fraction with $\bar {N} = 12.4$ at 260.65 K, under optical microscope with crossed polarizers on.\relax }}{60}{figure.caption.48}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Crystal size as a function of crystallization time, of fraction with $\bar {N} = 12.4$ at 260.65 K.\relax }}{61}{figure.caption.49}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Crystal growth rate vs crystallization temperature, with four fractions having different chain lengths. Vertical bars are the melting temperatures of the fractions.\relax }}{62}{figure.caption.50}
 \addvspace {10\p@ }
