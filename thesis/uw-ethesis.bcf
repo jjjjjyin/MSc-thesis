@@ -131,7 +131,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>nty</bcf:value>
+      <bcf:value>none</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -1971,40 +1971,168 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
+    <bcf:datasource type="file" datatype="bibtex">introduction.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">evaporation.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">analysis.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">growth.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">conclusion.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">fields1989novel</bcf:citekey>
-    <bcf:citekey order="2">goossens.book</bcf:citekey>
+    <bcf:citekey order="1">Rubinstein2003</bcf:citekey>
+    <bcf:citekey order="2">Thakur2016</bcf:citekey>
+    <bcf:citekey order="3">Carraher2003a</bcf:citekey>
+    <bcf:citekey order="4">YOUNG2017</bcf:citekey>
+    <bcf:citekey order="5">Halasa1981</bcf:citekey>
+    <bcf:citekey order="6">Dotson1995</bcf:citekey>
+    <bcf:citekey order="7">Brady2017</bcf:citekey>
+    <bcf:citekey order="8">Buckley1975</bcf:citekey>
+    <bcf:citekey order="9">Xue2015</bcf:citekey>
+    <bcf:citekey order="10">Croce1998</bcf:citekey>
+    <bcf:citekey order="11">Sigma-Aldrich2018</bcf:citekey>
+    <bcf:citekey order="12">Sigma-Aldrich2018</bcf:citekey>
+    <bcf:citekey order="13">Rubinstein2003</bcf:citekey>
+    <bcf:citekey order="14">Fox1950a</bcf:citekey>
+    <bcf:citekey order="15">Chai2016</bcf:citekey>
+    <bcf:citekey order="16">Organ1996</bcf:citekey>
+    <bcf:citekey order="16">Alamo1993</bcf:citekey>
+    <bcf:citekey order="17">Anwar2013</bcf:citekey>
+    <bcf:citekey order="17">Yamamoto2016</bcf:citekey>
+    <bcf:citekey order="18">Zhu2017a</bcf:citekey>
+    <bcf:citekey order="19">Krieger2018</bcf:citekey>
+    <bcf:citekey order="20">Sanchez1976</bcf:citekey>
+    <bcf:citekey order="21">Rodgers1993</bcf:citekey>
+    <bcf:citekey order="22">Sanchez1976</bcf:citekey>
+    <bcf:citekey order="23">Sanchez1976</bcf:citekey>
+    <bcf:citekey order="24">Choukourov2009</bcf:citekey>
+    <bcf:citekey order="25">Zhu2017a</bcf:citekey>
+    <bcf:citekey order="26">Strobl2007</bcf:citekey>
+    <bcf:citekey order="27">Strobl2007</bcf:citekey>
+    <bcf:citekey order="28">Strobl2007</bcf:citekey>
+    <bcf:citekey order="29">HerrmannKGerngrossO1930</bcf:citekey>
+    <bcf:citekey order="30">Flory1953</bcf:citekey>
+    <bcf:citekey order="31">Flory1953</bcf:citekey>
+    <bcf:citekey order="32">Flory1962</bcf:citekey>
+    <bcf:citekey order="33">Geil1964</bcf:citekey>
+    <bcf:citekey order="34">Zachmann1967</bcf:citekey>
+    <bcf:citekey order="34">Zachmann1969</bcf:citekey>
+    <bcf:citekey order="35">Storks1938</bcf:citekey>
+    <bcf:citekey order="36">JACCODINE1955</bcf:citekey>
+    <bcf:citekey order="36">Till1957</bcf:citekey>
+    <bcf:citekey order="36">Keller1957</bcf:citekey>
+    <bcf:citekey order="37">Kovacs1975</bcf:citekey>
+    <bcf:citekey order="37">Yoon1979</bcf:citekey>
+    <bcf:citekey order="37">Keller1979</bcf:citekey>
+    <bcf:citekey order="38">Flory1962</bcf:citekey>
+    <bcf:citekey order="39">Flory1962</bcf:citekey>
+    <bcf:citekey order="40">Flory1962</bcf:citekey>
+    <bcf:citekey order="41">Flory1962</bcf:citekey>
+    <bcf:citekey order="42">Strobl2007</bcf:citekey>
+    <bcf:citekey order="43">Hu2013</bcf:citekey>
+    <bcf:citekey order="44">Zhang2016</bcf:citekey>
+    <bcf:citekey order="45">KojiYamada2003</bcf:citekey>
+    <bcf:citekey order="46">Arlif1966</bcf:citekey>
+    <bcf:citekey order="47">Yoshihara1964</bcf:citekey>
+    <bcf:citekey order="48">Takahashi1973</bcf:citekey>
+    <bcf:citekey order="49">Okuyama2008</bcf:citekey>
+    <bcf:citekey order="50">Okuyama2008</bcf:citekey>
+    <bcf:citekey order="51">Kovacs1975</bcf:citekey>
+    <bcf:citekey order="51">Kovacs1977</bcf:citekey>
+    <bcf:citekey order="52">Pfefferkorn2011</bcf:citekey>
+    <bcf:citekey order="53">Yeates1984</bcf:citekey>
+    <bcf:citekey order="54">Yeates1984</bcf:citekey>
+    <bcf:citekey order="55">Yeates1984</bcf:citekey>
+    <bcf:citekey order="56">Percec1989</bcf:citekey>
+    <bcf:citekey order="57">Jaeger1998</bcf:citekey>
+    <bcf:citekey order="58">InternationalOrganizationforStandardization2013</bcf:citekey>
+    <bcf:citekey order="59">Gibbs1958</bcf:citekey>
+    <bcf:citekey order="60">Janssen2018</bcf:citekey>
+    <bcf:citekey order="61">Gotze2009</bcf:citekey>
+    <bcf:citekey order="62">Misutsu2015</bcf:citekey>
+    <bcf:citekey order="63">Misutsu2015</bcf:citekey>
+    <bcf:citekey order="64">Buckley1975</bcf:citekey>
+    <bcf:citekey order="65">Wong2015</bcf:citekey>
+    <bcf:citekey order="66">Yave2010</bcf:citekey>
+    <bcf:citekey order="67">Okerberg2007</bcf:citekey>
+    <bcf:citekey order="68">Herzberger2015</bcf:citekey>
+    <bcf:citekey order="69">Takahashi1973</bcf:citekey>
+    <bcf:citekey order="70">Richardson1965</bcf:citekey>
+    <bcf:citekey order="71">Keller1957a</bcf:citekey>
+    <bcf:citekey order="72">Ungar1986</bcf:citekey>
+    <bcf:citekey order="73">Alamo1993</bcf:citekey>
+    <bcf:citekey order="74">Ungar1986</bcf:citekey>
+    <bcf:citekey order="75">Ungar1986</bcf:citekey>
+    <bcf:citekey order="76">Kovacs1977</bcf:citekey>
+    <bcf:citekey order="77">Zeng1998</bcf:citekey>
+    <bcf:citekey order="78">Ungar1986</bcf:citekey>
+    <bcf:citekey order="79">Richardson1965</bcf:citekey>
+    <bcf:citekey order="80">Marshall1981</bcf:citekey>
+    <bcf:citekey order="81">Marshall1981</bcf:citekey>
+    <bcf:citekey order="82">Halden1955</bcf:citekey>
+    <bcf:citekey order="83">Jung2005</bcf:citekey>
+    <bcf:citekey order="84">Kong2002</bcf:citekey>
+    <bcf:citekey order="85">Yave2010</bcf:citekey>
+    <bcf:citekey order="86">Majumdar2010</bcf:citekey>
+    <bcf:citekey order="87">Marshall1981</bcf:citekey>
+    <bcf:citekey order="88">Majumdar2010</bcf:citekey>
+    <bcf:citekey order="89">Marshall1981</bcf:citekey>
+    <bcf:citekey order="90">Zhang2016a</bcf:citekey>
+    <bcf:citekey order="91">Carraher2003</bcf:citekey>
+    <bcf:citekey order="92">Vasile2000</bcf:citekey>
+    <bcf:citekey order="93">Khoury1976</bcf:citekey>
+    <bcf:citekey order="94">Khoury1976</bcf:citekey>
+    <bcf:citekey order="95">LindaSawyerDavidT.Grubb2008</bcf:citekey>
+    <bcf:citekey order="96">Bower2002</bcf:citekey>
+    <bcf:citekey order="97">Chai2016</bcf:citekey>
+    <bcf:citekey order="98">Strobl2007</bcf:citekey>
+    <bcf:citekey order="99">Chai2016</bcf:citekey>
+    <bcf:citekey order="100">Hoffman1997</bcf:citekey>
+    <bcf:citekey order="101">Turnbull1949</bcf:citekey>
+    <bcf:citekey order="102">Massa2004</bcf:citekey>
+    <bcf:citekey order="103">Rottele2003</bcf:citekey>
+    <bcf:citekey order="104">Strobl2007</bcf:citekey>
+    <bcf:citekey order="105">Yeates1984</bcf:citekey>
+    <bcf:citekey order="106">Rottele2003</bcf:citekey>
+    <bcf:citekey order="107">Strobl2007</bcf:citekey>
+    <bcf:citekey order="108">Yeates1984</bcf:citekey>
+    <bcf:citekey order="109">Fick1855</bcf:citekey>
+    <bcf:citekey order="109">FickZiirich1995</bcf:citekey>
+    <bcf:citekey order="110">Ouyang1998</bcf:citekey>
+    <bcf:citekey order="110">Ouyang1999</bcf:citekey>
+    <bcf:citekey order="110">HaoOuyang2004</bcf:citekey>
+    <bcf:citekey order="110">Naga2013</bcf:citekey>
+    <bcf:citekey order="111">Lauritzen</bcf:citekey>
+    <bcf:citekey order="111">Hoffman</bcf:citekey>
+    <bcf:citekey order="111">Lauritzen1973</bcf:citekey>
+    <bcf:citekey order="112">Zhang2016a</bcf:citekey>
+    <bcf:citekey order="113">Cheng2005</bcf:citekey>
+    <bcf:citekey order="114">Cheng2005</bcf:citekey>
+    <bcf:citekey order="115">Turnbull1949</bcf:citekey>
+    <bcf:citekey order="116">Hoffman1983</bcf:citekey>
+    <bcf:citekey order="117">Ross1980</bcf:citekey>
+    <bcf:citekey order="118">Ross1980</bcf:citekey>
+    <bcf:citekey order="119">Kovacs1975</bcf:citekey>
+    <bcf:citekey order="120">Kovacs1975</bcf:citekey>
+    <bcf:citekey order="121">Kovacs1975</bcf:citekey>
+    <bcf:citekey order="122">Kovacs1977</bcf:citekey>
+    <bcf:citekey order="123">Kovacs1977</bcf:citekey>
+    <bcf:citekey order="124">Zhu2017a</bcf:citekey>
+    <bcf:citekey order="125">Savage2015</bcf:citekey>
     <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="nty">
+  <bcf:sortingtemplate name="none">
     <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="6">
-      <bcf:sortitem order="1">volume</bcf:sortitem>
-      <bcf:sortitem order="2">0</bcf:sortitem>
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>

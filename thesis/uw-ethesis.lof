@@ -1,43 +1,45 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Chemical structure of PEO sample with average $M_{n}$ of 600.}}{4}{figure.caption.5}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Gibbs free energy vs mass density, where a liquid phase is metastable with respect to the vapor phase}}{8}{figure.caption.6}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Plot of vapor pressure vs temperature for PEO oligomers with $N$ values from 1 to 10.\relax }}{9}{figure.caption.7}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Mass of PEO collected with respect to time and temperature.\relax }}{11}{figure.caption.8}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces MALDI spectra of purified products (black) and neat sample (green) (80 h: 80th hour since start of evaporation).\relax }}{13}{figure.caption.9}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces $M_{n}$, $M_{w}$, and PDI comparison between products and neat sample.\relax }}{14}{figure.caption.10}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Evolution of $N$ values during evaporation process.\relax }}{15}{figure.caption.11}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Gibbs free energy vs mass density, where a liquid phase is metastable with respect to the vapour phase}}{8}{figure.caption.5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Plot of vapour pressure vs temperature for PEO oligomers with $N$ values from 1 to 10.\relax }}{9}{figure.caption.6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Mass of PEO deposited on top substrate with respect to time and temperature.\relax }}{11}{figure.caption.7}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces MALDI spectra of the neat sample, with $M_{n}$ and $M_{w}$ indicated.\relax }}{13}{figure.caption.8}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces MALDI spectra of purified products (black) and neat sample (green) (80 h: 80th hour since start of evaporation).\relax }}{13}{figure.caption.9}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces $M_{n}$, $M_{w}$, and PDI comparison between products and neat sample.\relax }}{14}{figure.caption.10}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Evolution of $N$ values during evaporation process.\relax }}{15}{figure.caption.11}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Oligomer crystal structure.}}{17}{figure.caption.12}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Fringed micelle model of polymer crystal structure.}}{18}{figure.caption.14}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Adjacent re-entry model of polymer crystals.}}{19}{figure.caption.16}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Random re-entry model of polymer crystals.}}{20}{figure.caption.17}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Schematic drawing of a polymer crystal lamella.\relax }}{22}{figure.caption.18}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Schematic drawing of a polymer crystal lamella.\relax }}{21}{figure.caption.18}
 \contentsline {figure}{\numberline {3.6}{\ignorespaces 7/2 helix structure (a) and its radial projection (b).}}{24}{figure.caption.19}
 \contentsline {figure}{\numberline {3.7}{\ignorespaces Melting points vs degree of polymerization for monodisperse (black dots) and polydisperse (empty boxes) PEO oligomer samples.}}{26}{figure.caption.20}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Temperature of specific volume of a polymer under melting or crystallization transition, where $T$ is the temperature and $V$ is the specific volume.\relax }}{28}{figure.caption.21}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Temperature of specific volume of a polymer under glass transition, where $T$ is the temperature and $V$ is the specific volume.\relax }}{29}{figure.caption.22}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces A typical DSC curve for a polymer sample.}}{31}{figure.caption.23}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Melting temperature of purified fractions.\relax }}{32}{figure.caption.24}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces $T_{m1}$ data fitting to Gibbs Thomson equation.\relax }}{34}{figure.caption.26}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces $T_{m1}$ and $T_{m2}$ data fitting to Gibbs Thomson equation.\relax }}{35}{figure.caption.27}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Gibbs Thomson relation fitting with potential range bars on $T_{m}$ data points.\relax }}{36}{figure.caption.28}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Part of DSC curve (melting) from regular run on $\bar {N} = 11$.\relax }}{38}{figure.caption.31}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Thermal treatment on products with a lower $T_{m}$ present.\relax }}{39}{figure.caption.33}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces DSC measurements on purified fraction with $N = 12.3$ before and after thermal treatment.\relax }}{40}{figure.caption.34}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces DSC curves of the neat sample (red) and some of the purified fractions (blue).\relax }}{41}{figure.caption.36}
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Degree of crystallinity of purified products.\relax }}{44}{figure.caption.39}
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Comparison of degree of crystallinity measured in different studies}}{45}{figure.caption.40}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Specific volume $V$ vs temperature $T$ of a polymer under melting or crystallization.\relax }}{27}{figure.caption.21}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Specific volume vs temperature of a polymer under glass transition, where $T$ is the temperature and $V$ is the specific volume.\relax }}{28}{figure.caption.22}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces DSC curve for the neat sample before evaporation.\relax }}{30}{figure.caption.23}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Double-peak pattern observed on the DSC heating run of a purified fraction.\relax }}{31}{figure.caption.24}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Melting temperature of purified fractions.\relax }}{31}{figure.caption.25}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces $T_{m1}$ data fitting to Gibbs Thomson equation.\relax }}{33}{figure.caption.27}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces $T_{m1}$ and $T_{m2}$ data fitting to Gibbs Thomson equation.\relax }}{34}{figure.caption.28}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Gibbs Thomson relation fitting with potential range bars on $T_{m}$ data points.\relax }}{35}{figure.caption.29}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Part of DSC curve (melting) from regular run on $\bar {N} = 11$.\relax }}{37}{figure.caption.32}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Thermal treatment on products with a lower $T_{m}$ present.\relax }}{37}{figure.caption.34}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces DSC measurements on a purified fraction with $N = 12.3$ before and after thermal treatment.\relax }}{38}{figure.caption.35}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces DSC curves of the neat sample (red) and some of the purified fractions (blue).\relax }}{39}{figure.caption.37}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Degree of crystallinity of purified products.\relax }}{42}{figure.caption.40}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Comparison of degree of crystallinity measured in different studies}}{43}{figure.caption.41}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces A polymer spherulite with folded-chain lamellae.}}{47}{figure.caption.41}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Optical microscope image (with crossed polarizers on) of fraction with $\bar {N} = 12.4$ at 260.65 K.\relax }}{48}{figure.caption.42}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Total free energy of an embryo $\Delta G$ vs embryo radius $r$, where $r^{*}$ and $\Delta G^{*}$ are the critical radius and the critical free energy, respectively.\relax }}{50}{figure.caption.43}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Volume-normalized time constant, $\tau V$, as a function of temperature.}}{52}{figure.caption.44}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Polymer crystal growth in three regimes in LH theory.}}{55}{figure.caption.45}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Temperature dependence of the radial growth rate $u$ of spherulites of iPS, nylon and TMPS.}}{57}{figure.caption.46}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces PEO crystals growth rate with respect to temperature and molecular weight.}}{58}{figure.caption.47}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Four sequential images of fraction with $\bar {N} = 12.4$ at 260.65 K, under optical microscope with crossed polarizers on.\relax }}{60}{figure.caption.48}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Crystal size as a function of crystallization time, of fraction with $\bar {N} = 12.4$ at 260.65 K.\relax }}{61}{figure.caption.49}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Crystal growth rate vs crystallization temperature, with four fractions having different chain lengths. Vertical bars are the melting temperatures of the fractions.\relax }}{62}{figure.caption.50}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A polymer spherulite with folded-chain lamellae.}}{45}{figure.caption.42}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Optical microscope image (with crossed polarizers on) of fraction with $\bar {N} = 12.4$ at 260.65 K.\relax }}{46}{figure.caption.43}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Total free energy of an embryo $\Delta G$ vs embryo radius $r$, where $r^{*}$ and $\Delta G^{*}$ are the critical radius and the critical free energy, respectively.\relax }}{48}{figure.caption.44}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Volume-normalized time constant, $\tau V$, as a function of temperature.}}{50}{figure.caption.45}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Polymer crystal growth in three regimes in LH theory.}}{52}{figure.caption.46}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Temperature dependence of the radial growth rate $u$ of spherulites of iPS, nylon and TMPS.}}{54}{figure.caption.47}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces PEO crystal growth rate with respect to temperature and molecular weight.}}{55}{figure.caption.48}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Extended-chain PEO crystals growth rate with respect to temperature and molecular weight.}}{55}{figure.caption.49}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Four sequential images of fraction with $\bar {N} = 12.4$ at 260.65 K, under an optical microscope with crossed polarizers on.\relax }}{57}{figure.caption.50}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Crystal size as a function of crystallization time. $\bar {N} = 12.4$, $T = 260.65 K$.\relax }}{57}{figure.caption.51}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Crystal growth rate vs crystallization temperature, with four fractions having different chain lengths. Vertical bars are the melting temperatures of the fractions.\relax }}{58}{figure.caption.52}
 \addvspace {10\p@ }

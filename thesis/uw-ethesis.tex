@@ -77,6 +77,7 @@
 \usepackage{romannum}
 \usepackage{siunitx}
 \usepackage{chemfig}
+%\usepackage{apacite}
 \usepackage[numbers]{natbib}
 %\usepackage{url}
 
@@ -175,7 +176,9 @@
 
 % The following statement selects the style to use for references.  It controls the sort order of the entries in the bibliography and also the formatting for the in-text labels.
 %\bibliographystyle{plain}
-\bibliographystyle{unsrt} %(does not show url)
+\bibliographystyle{ieeetr}
+%\bibliographystyle{apalike} %right format byt mess up with order of appearance
+%\bibliographystyle{unsrt} %(does not show url) right order but mess up with format
 %\bibliographystyle{unsrtnat} %(shows url)
 % This specifies the location of the file containing the bibliographic information.  
 % It assumes you're using BibTeX (if not, why not?).
@@ -190,6 +193,7 @@
 \addcontentsline{toc}{chapter}{\textbf{References}}
 
 \bibliography{introduction,evaporation,analysis,growth,conclusion}
+
 
 % Tip 5: You can create multiple .bib files to organize your references. 
 % Just list them all in the \bibliogaphy command, separated by commas (no spaces).

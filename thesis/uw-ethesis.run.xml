@@ -78,5 +78,12 @@
     <requires type="dynamic">
       <file>uw-ethesis.bcf</file>
     </requires>
+    <requires type="editable">
+      <file>introduction.bib</file>
+      <file>evaporation.bib</file>
+      <file>analysis.bib</file>
+      <file>growth.bib</file>
+      <file>conclusion.bib</file>
+    </requires>
   </external>
 </requests>
